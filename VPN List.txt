@@ -1,0 +1,13 @@
+Server Hostname: us.newipvpn.com/65.60.20.67
+VPN Username: newipvpn.com
+Password: 2013
+
+
+Server #1: euro217.vpnbook.com
+Server #2: euro214.vpnbook.com
+Server #3: us1.vpnbook.com/198.7.62.204 (US VPN - optimized for fast web surfing; no p2p downloading)
+Server #4: us2.vpnbook.com (US VPN - optimized for fast web surfing; no p2p downloading)
+Server #5: ca1.vpnbook.com (Canada VPN - optimized for fast web surfing; no p2p downloading)
+Server #6: de233.vpnbook.com (Germany VPN - optimized for fast web surfing; no p2p downloading)
+Username: vpnbook
+Password: bgxz34

@@ -1,0 +1,9 @@
+E:\Study Materials\Projects\myVPN\myVPN\bin\Debug\myVPN.exe.config
+E:\Study Materials\Projects\myVPN\myVPN\bin\Debug\myVPN.exe
+E:\Study Materials\Projects\myVPN\myVPN\bin\Debug\myVPN.pdb
+E:\Study Materials\Projects\myVPN\myVPN\obj\Debug\myVPN.Form1.resources
+E:\Study Materials\Projects\myVPN\myVPN\obj\Debug\myVPN.Properties.Resources.resources
+E:\Study Materials\Projects\myVPN\myVPN\obj\Debug\myVPN.csproj.GenerateResource.Cache
+E:\Study Materials\Projects\myVPN\myVPN\obj\Debug\myVPN.exe
+E:\Study Materials\Projects\myVPN\myVPN\obj\Debug\myVPN.pdb
+E:\Study Materials\Projects\myVPN\myVPN\obj\Debug\myVPN.csprojResolveAssemblyReference.cache
