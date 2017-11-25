@@ -14,7 +14,7 @@ namespace myVPN
         }
 
         private static string FolderPath => string.Concat(Directory.GetCurrentDirectory(),
-            "\\vpnconnector");
+            "\\VPN");
 
         private void btnConnect_Click(object sender, EventArgs e)
         {
