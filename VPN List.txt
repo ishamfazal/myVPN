@@ -10,4 +10,9 @@ Server #4: us2.vpnbook.com (US VPN - optimized for fast web surfing; no p2p down
 Server #5: ca1.vpnbook.com (Canada VPN - optimized for fast web surfing; no p2p downloading)
 Server #6: de233.vpnbook.com (Germany VPN - optimized for fast web surfing; no p2p downloading)
 Username: vpnbook
-Password: bgxz34
+Password: 6b467gr
+
+https://freevpn.me/accounts/
+IP: 51.15.151.165
+Username: pptp
+Password: ykDJYnCIirN
